@@ -1,0 +1,23 @@
+Troubleshooting
+Frontend Not Connecting to Backend:
+
+Ensure the backend server is running at http://localhost:3000.
+Check that the backend includes cors middleware:
+javascript
+ 
+ 
+const cors = require('cors');
+app.use(cors());
+Port Conflict:
+
+If the default frontend port (3005) is in use, specify another port:
+powershell
+ 
+ 
+set PORT=3006 && npm start
+Styling Issues:
+
+Ensure all CSS files and dependencies are properly installed.
+API Errors:
+
+Verify the backend is functional by testing its endpoints (refer to the backend README).

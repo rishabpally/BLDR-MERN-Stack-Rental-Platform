@@ -1,0 +1,15 @@
+Frontend and Backend Connection
+The frontend connects to the backend via the API hosted on http://localhost:3000. Ensure both servers are running simultaneously:
+
+Start the backend server in one terminal:
+powershell
+ 
+ 
+cd rental-platform-backend
+node server.js
+Start the frontend server in another terminal:
+powershell
+ 
+ 
+cd rental-platform-frontend
+npm start

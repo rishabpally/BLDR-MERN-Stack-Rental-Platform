@@ -1,0 +1,133 @@
+[
+  {
+    "_id": "6796ea074be5a06ee90a408c",
+    "name": "Canon EOS R5",
+    "description": "High-end mirrorless camera for professional photography.",
+    "pricePerDay": 50,
+    "available": true,
+    "rentals": [],
+    "__v": 4
+  },
+  {
+    "_id": "6796ea074be5a06ee90a408d",
+    "name": "DJI Phantom 4 Pro",
+    "description": "High-performance drone with 4K video recording capabilities.",
+    "pricePerDay": 60,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a408e",
+    "name": "MacBook Pro 16-inch",
+    "description": "Powerful laptop for video editing and graphic design.",
+    "pricePerDay": 40,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a408f",
+    "name": "iPhone 14 Pro Max",
+    "description": "Latest Apple smartphone with advanced features.",
+    "pricePerDay": 30,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4090",
+    "name": "iPad Pro 12.9-inch",
+    "description": "High-end tablet with Apple Pencil support, perfect for creative work.",
+    "pricePerDay": 25,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4091",
+    "name": "Oculus Quest 2",
+    "description": "All-in-one virtual reality headset for gaming and entertainment.",
+    "pricePerDay": 20,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4092",
+    "name": "DeWalt Cordless Drill",
+    "description": "Heavy-duty power tool for construction and repair tasks.",
+    "pricePerDay": 15,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4093",
+    "name": "Blackmagic Pocket Cinema Camera 6K",
+    "description": "Compact camera for professional video editing projects.",
+    "pricePerDay": 55,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4094",
+    "name": "Creality Ender 3 V2 3D Printer",
+    "description": "Reliable and precise 3D printer for prototyping and design.",
+    "pricePerDay": 35,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4095",
+    "name": "Anker Nebula Capsule II",
+    "description": "Portable projector with stunning image quality and built-in speakers.",
+    "pricePerDay": 20,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4096",
+    "name": "PlayStation 5",
+    "description": "Next-gen gaming console with immersive graphics and performance.",
+    "pricePerDay": 25,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4097",
+    "name": "Fitbit Charge 5",
+    "description": "Fitness tracker for monitoring activity, heart rate, and sleep.",
+    "pricePerDay": 10,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4098",
+    "name": "Apple Watch Series 8",
+    "description": "Smartwatch with advanced health and productivity features.",
+    "pricePerDay": 15,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "6796ea074be5a06ee90a4099",
+    "name": "Xiaomi Mi Electric Scooter",
+    "description": "Eco-friendly electric scooter for quick and efficient transportation.",
+    "pricePerDay": 30,
+    "available": true,
+    "rentals": []
+  },
+  {
+    "_id": "67970a1dc5f252dbb91df6c9",
+    "name": "DJI Phantom 4 Pro",
+    "description": "High-performance drone with 4K video recording.",
+    "pricePerDay": 60,
+    "available": true,
+    "rentals": [],
+    "__v": 0
+  },
+  {
+    "_id": "67970c2cc5f252dbb91df6de",
+    "name": "GoPro Hero 11",
+    "description": "Compact and versatile action camera for adventure sports.",
+    "pricePerDay": 35,
+    "available": true,
+    "rentals": [],
+    "__v": 0
+  }
+]
